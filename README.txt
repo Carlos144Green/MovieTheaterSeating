@@ -10,3 +10,8 @@ Allows dynamic sized theaters and buffers
 FIFO
 Greedy algorithm for placement
 Skips large groups that wouldn't fit to allow smaller groups to fit
+
+How to run:
+* Find main.py and run `python main.py <location of input.txt>`
+or 
+* Find main.py and run `python main.py` and then paste location of input.txt
